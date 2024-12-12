@@ -39,7 +39,7 @@ export function Hero() {
           
           <div className="relative">
             <div className="aspect-video rounded-lg overflow-hidden border-2 border-purple-500/30 backdrop-blur-sm bg-black/30">
-                  <img src='public/a-bold-and-eye-catching-thumbnail-design-for-a-tec-w1Tgf7JrTTmV-70hE5nDow-g2KRmLg4S26GwyHJK832fw.jpeg'></img>
+                  <img src='/a-bold-and-eye-catching-thumbnail-design-for-a-tec-w1Tgf7JrTTmV-70hE5nDow-g2KRmLg4S26GwyHJK832fw.jpeg'></img>
               <div className="absolute inset-0 flex items-center  justify-center">
                 <div className="w-16 h-16 rounded-full cursor-pointer bg-purple-600 flex items-center justify-center animate-pulse">
                   <a href='https://youtu.be/ydnlt5S4Jp8?si=GfxY2d53U0ThBAkQ' target='_blank'>
