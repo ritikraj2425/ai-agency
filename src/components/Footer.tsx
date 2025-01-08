@@ -8,8 +8,8 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <Link to="/" className="flex items-center mb-4">
-              <Brain className="h-8 w-8 text-purple-500" />
-              <span className="ml-2 text-white font-bold text-xl">Seedite</span>
+            <img src='/logo.png' alt='logo' className='h-8 w-8'/>
+            <span className="ml-2 text-white font-bold text-xl">z1media</span>
             </Link>
             <p className="text-gray-400 mb-4">
               Transforming video production with AI-powered creativity and innovation.
@@ -72,7 +72,7 @@ export function Footer() {
         </div>
         
         <div className="border-t border-purple-500/20 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; {new Date().getFullYear()} Seedite. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} z1media. All rights reserved.</p>
         </div>
       </div>
     </footer>

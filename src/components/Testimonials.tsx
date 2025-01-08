@@ -20,7 +20,7 @@ const testimonials = [
     role: "CEO",
     company: "Startup Inc",
     image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80",
-    content: "Working with Seedite has transformed how we approach video content. The AI insights are invaluable."
+    content: "Working with z1media has transformed how we approach video content. The AI insights are invaluable."
   }
 ];
 

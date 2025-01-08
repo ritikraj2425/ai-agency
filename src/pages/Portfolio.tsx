@@ -38,7 +38,7 @@ export function Portfolio() {
           animate={{ opacity: 1, y: 0 }}
           className="text-center mb-16"
         >
-          <h1 className="text-5xl font-bold text-white mb-4">Our Work</h1>
+          <h1 className="text-5xl font-bold text-white mb-4">Our Work<br></br> (Demo for now)</h1>
           <p className="text-gray-400 max-w-2xl mx-auto">
             Explore our collection of AI-enhanced video productions that deliver results.
           </p>
